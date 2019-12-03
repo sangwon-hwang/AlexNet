@@ -1,4 +1,4 @@
-Reference is this [repository] (https://github.com/sualab/asirra-dogs-cats-classification) which is coded to identify cat and dog.
+Reference is this [repository](https://github.com/sualab/asirra-dogs-cats-classification) which is coded to identify cat and dog.
 
 In the project that I participated in, it was utilized to determine if a wavelet image is normal or abnormal.
 
